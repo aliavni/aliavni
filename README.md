@@ -1,4 +1,12 @@
-:v:
+:v: 🇺🇦
+
+<div>
+  <a href="https://stackexchange.com/users/3327316/ali-cirik">
+    <img src="https://stackexchange.com/users/flair/3327316.png" height="50"
+        alt="Profile for Ali Cirik on Stack Exchange, a network of free, community-driven Q&amp;A sites"
+        title="Profile for Ali Cirik on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
+  </a>
+</div>
 
 <!--
 **aliavni/aliavni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
