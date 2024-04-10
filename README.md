@@ -1,5 +1,3 @@
-:v: 🇺🇦
-
 <div>
   <a href="https://stackexchange.com/users/3327316/ali-cirik">
     <img src="https://stackexchange.com/users/flair/3327316.png" height="50"
