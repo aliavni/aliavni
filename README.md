@@ -1,3 +1,11 @@
+<div> 
+  <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aliavnicirik" target="_blank">Follow on LinkedIn</a>
+</div>
+
+<div>
+  <p></p>
+</div>
+
 <div>
   <a href="https://stackexchange.com/users/3327316/ali-cirik">
     <img src="https://stackexchange.com/users/flair/3327316.png" height="50"
