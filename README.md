@@ -46,8 +46,9 @@
 
 ## Stats
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliavni&show_icons=true&locale=en" alt="aliavni" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliavni&" alt="aliavni" />
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=aliavni&show_icons=true&locale=en" alt="aliavni" />
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliavni&layout=donut" alt="aliavni" />
+  <img height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliavni&" alt="aliavni" />
 </p>
 
 ## Trophies
