@@ -42,6 +42,10 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" height="40"/></a> 
   <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Superset_logo.svg" alt="superset" height="40"/></a> 
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" alt="streamlit" height="40"/></a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="40"/></a> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" height="40"/></a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" height="40"/></a> 
+
 </p>
 
 ## Stats
