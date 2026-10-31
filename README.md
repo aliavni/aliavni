@@ -44,6 +44,6 @@
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" height="40"/></a> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="40"/></a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" height="40"/></a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" height="40"/></a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vuejs/art/blob/master/logo.svg" alt="vuejs" height="40"/></a> 
 
 </p>
