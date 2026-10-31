@@ -47,13 +47,3 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" height="40"/></a> 
 
 </p>
-
-## Stats
-<p align="left">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=aliavni&show_icons=true&locale=en&hide_border=true" alt="aliavni" />
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliavni&layout=donut&hide_border=true&size_weight=0&count_weight=1" alt="aliavni" />
-  <img height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliavni&hide_border=true" alt="aliavni" />
-</p>
-
-## Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliavni" alt="aliavni" /></a> </p>
